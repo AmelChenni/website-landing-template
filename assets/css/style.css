@@ -159,7 +159,7 @@ header .links ul li:not(:last-child){
 }
 /* ****************** start  landing ****************************/
 .landing {
-  background-image: url("/assets/img/landing.jpg");
+  background-image: url("../img/landing.jpg");
   height: calc(100vh - 54px);
   background-size: cover;
   display: flex;
