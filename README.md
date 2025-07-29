@@ -3,7 +3,7 @@
 A modern and responsive **landing page** built with **HTML** and **CSS**.  
 This template is designed for marketing or business websites as a starting point for building professional web pages.
 
-🌐 **Live Demo**: [View Website](https://amelchenni.github.io/HTML-CSS-Template-ONE/)
+🌐 **Live Demo**: [View Website](https://amelchenni.github.io/website-landing-template)
 
 ---
 
