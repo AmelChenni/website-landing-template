@@ -32,4 +32,4 @@ Planned enhancements with JavaScript:
 ---
 
 ## 📷 Preview
-![Preview Screenshot](screenshot.png)
+![Preview Screenshot](amelchenni.github.io_website-landing-template_.png)
